@@ -1,4 +1,6 @@
+import React from 'react';
 import logo from './logo.svg';
+
 import './App.css';
 // import 'bootstrap/dist/css/bootstrap.min.css';
 import image from './images/decentraland_map_01.png';
